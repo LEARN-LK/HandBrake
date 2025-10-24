@@ -18,4 +18,4 @@ HandBrake is lightweight, secure (download from https://handbrake.fr), and ideal
 * [Converting Video](https://github.com/LEARN-LK/HandBrake/blob/main/Converting-Video.md)
 * [Adjusting Basic Settings](https://github.com/LEARN-LK/HandBrake/blob/main/Adjusting-Settings.md)
 * [Thoubleshooting](https://github.com/LEARN-LK/HandBrake/blob/main/Troubleshooting.md)
-* 
+  

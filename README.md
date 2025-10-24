@@ -13,3 +13,9 @@ Key features include:
 - **Preview**: Test settings on a short clip before encoding the full video.
 
 HandBrake is lightweight, secure (download from https://handbrake.fr), and ideal for tasks like compressing videos, preparing them for specific devices, or converting old media. It does not support DRM-protected or copy-protected content.
+
+* [Installing HandBrake](https://github.com/LEARN-LK/HandBrake/blob/main/Installing-HandBrake.md)
+* [Converting Video](https://github.com/LEARN-LK/HandBrake/blob/main/Converting-Video.md)
+* [Adjusting Basic Settings](https://github.com/LEARN-LK/HandBrake/blob/main/Adjusting-Settings.md)
+* [Thoubleshooting](https://github.com/LEARN-LK/HandBrake/blob/main/Troubleshooting.md)
+* 

@@ -27,7 +27,7 @@
       <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/preview-4.png" alt="image" style="width: 65%;">
      
 6. **Start Converting**:
-   - Click the green “Start” button (play icon) in the toolbar.
+   - Click the green “Start” **[8]** button (play icon) in the toolbar.
 
      <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/convert-4.png" alt="image" style="width: 65%;">
    - Wait for the conversion to finish (time depends on video length and computer speed).

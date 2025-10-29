@@ -14,17 +14,18 @@
   3. Follow the on-screen prompts, click “Install,” then click “Finish.” HandBrake will appear on your Desktop or in the Start Menu.
 
      <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/install-1-1.8.0.png" alt="image" style="width: 50%;">
-     <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/install-2-1.8.0.png" alt="image" style="width: 45%;">
-     <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/install-2-1.8.0.png" alt="image" style="width: 45%;">
-     <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/install-finish-1.8.0.png" alt="image" style="width: 50%;">
+     <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/install-2-1.8.0.png" alt="image" style="width: 25%;">
+     <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/install-2-1.8.0.png" alt="image" style="width: 25%;">
+     <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/install-finish-1.8.0.png" alt="image" style="width: 25%;">
 
 
      
 - **macOS**:
   1. Download the .dmg file from https://handbrake.fr.
   2. Open the .dmg file, then drag the HandBrake icon to your Applications folder.
-<img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/dmg.png" alt="image" style="width: 50%;">
-<img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/drag-dmg.png" alt="image" style="width: 50%;">
+  
+  <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/dmg.png" alt="image" style="width: 10%;">
+      <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/drag-dmg.png" alt="image" style="width: 40%;">
 
   3. Launch HandBrake from the Applications folder by double-clicking it.
 - **Linux**:

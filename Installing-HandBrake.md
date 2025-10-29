@@ -26,7 +26,8 @@
   2. Open the .dmg file, then drag the HandBrake icon to your Applications folder.
   
   <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/dmg.png" alt="image" style="width: 10%;">
-      <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/drag-dmg.png" alt="image" style="width: 40%;">
+      
+  <img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/drag-dmg.png" alt="image" style="width: 40%;">
 
   3. Launch HandBrake from the Applications folder by double-clicking it.
 - **Linux**:

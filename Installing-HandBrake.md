@@ -23,6 +23,9 @@
 - **macOS**:
   1. Download the .dmg file from https://handbrake.fr.
   2. Open the .dmg file, then drag the HandBrake icon to your Applications folder.
+<img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/dmg.png" alt="image" style="width: 50%;">
+<img src="https://github.com/LEARN-LK/HandBrake/blob/main/img/drag-dmg.png" alt="image" style="width: 50%;">
+
   3. Launch HandBrake from the Applications folder by double-clicking it.
 - **Linux**:
   1. Install HandBrake via your system’s app store (e.g., Ubuntu Software) or follow instructions at https://flathub.org/apps/fr.handbrake.ghb.
